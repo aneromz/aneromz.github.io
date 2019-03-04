@@ -1,19 +1,7 @@
 {
   "samarbetspartners": [
-    {
-        "name": "Unionen",
-        "image": "https://aneromz.github.io/logotyper/unionen.png",
-        "plats": "9",
-        "sponsor": "0",
-        "erbjudande": "Fackligt medelmsskap.",
-        "hemsida": "https://www.unionen.se/",
-        "info": "Var vill du jobba efter examen? Ett medlemskap i Unionen Student för bara 100 kr ger dig stöd på vägen till drömjobbet.  Under studierna stöttar vi med förmånliga rabatter och över 3 000 kronor tillbaka för kurslitteratur och kåravgifter om du sparar kvittona till efter examen.   När det är dags att ta steget ut i arbetslivet ger vi dig expertkunskap kring löner och villkor, vässar ditt cv, granskar din LinkedIn och hjälper dig med ett unikt kontaktnät på några av Sveriges populäraste arbetsplatser.  Allt för bara 100 kronor hela studietiden.    Läs mer på unionen.se/student och bli medlem idag!",
-        "onsdag": "1",
-        "torsdag": "1",
-        "klimat": "0"
-    },
 
-    { "name": "Cygni (Guldsponsor)",
+    { "name": "Cygni",
       "image": "https://emmwel.github.io/logotyper/cygni.png",
       "plats": "16",
       "sponsor": "1",
