@@ -7,11 +7,11 @@
       "start": "April 3, 2019 08:30:00",
       "end": "April 3, 2019 10:00:00",
       "place": "Loungen",
-      "info": "Frukost serveras i loungen",
+      "info": "Frukost serveras i loungen.\n \n \n \n \n \n \n \n",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Mässan öppnar - Välkomsttal",
+      "title": "Mässan öppnar - välkomsttal",
       "host": "MTD-gruppen",
       "time": "09.00-09.15",
       "start": "April 3, 2019 09:00:00",
@@ -21,85 +21,74 @@
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "En inblick i VFX industrin",
-      "host": "Dan Englesson",
+      "title": "Automation är inte lösningen.\n Det är verktyget.",
+      "host": "Nicholas Fernholm",
       "time": "09.15-10.00",
       "start": "April 3, 2018 09:15:00",
       "end": "April 3, 2018 10:00:00",
       "place": "K4",
-      "info": "Dan kommer att prata om hur hans karriär tog fart ut i världen direkt efter studietiden och hur det är att jobba på stora VFX och animation studios så som MPC i London, Pixar i San Francisco och Goodbye Kansas i Stockholm. Dan kommer också ge en inblick i hur det var att jobba på Coco på Pixar som vann en Oscar för bästa animerade film och hur det är att jobba med VFX i Sverige idag.",
-      "image": "https://aneromz.github.io/Dan.jpg"
+      "info": "Nicholas är en fantastisk föreläsare och expert på att implementera innovativa produkter i befintliga processer. Hans föreläsningar är inspirerande och underhållande med fokus på de största faktorerna som påverkar framtidens arbetsmarknad och arbetssätt.\n \nHan är idag förvaltningschef för bland annat transportrobotarna på Nya Karolinska Sjukhuset i Solna.\n \nNicholas kommer föreläsa om hur automation och AI kommer påverka världen på kort och lång sikt. Nicholas föreläsning fokuserar på hur den digitala världen påverkas oss, och hur AI, nya generationen och automation är nycklarna för att förstå och förbereda sig för framtiden.",
+      "image": "https://emmwel.github.io/eventbilder/Nicholas.png"
     },
     {
-      "title": "Skattjakt 1",
+      "title": "Skattjakt: Del 1",
       "host": "MTD-gruppen",
       "time": "11.00-11.15",
       "start": "April 3, 2018 11:00:00",
       "end": "April 3, 2018 11:15:00",
       "place": "Mässområdet",
-      "info": "Dags för den första skattjakten!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Se till att vara beredd när vi lägger ut storyn!\n \nPris: Presentkort",
+      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Skattjakt 2",
-      "host": "MTD-gruppen",
-      "time": "12.00-12.15",
-      "start": "April 3, 2012 12:00:00",
-      "end": "April 3, 2018 12:15:00",
-      "place": "Mässområdet",
-      "info": "Dags för den andra skattjakten!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Se till att vara beredd när vi lägger ut storyn!\n \nPris: Presentkort",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Building a flexible core engine",
-      "host": "Alexander Loodin Ek and Mehrnaz Amanat Bari",
-      "time": "13.15-14.00",
-      "start": "April 3, 2019 13:15:00",
-      "end": "April 3, 2019 14:00:00",
+      "title": "Getting a Ph.D. - Why and How?",
+      "host": "Kahin Akram Hassan",
+      "time": "11.15-12.00",
+      "start": "March 21, 2018 11:15:00",
+      "end": "March 21, 2018 12:00:00",
       "place": "K4",
-      "info": "Alexander Loodin Ek and Mehrnaz Amanat Bari, Software Engineers at the Frostbite Engine, will talk about working at Frostbite and how to build a more flexible core engine using Entity Component System. The talk will include the basics of ECS as well as discuss a few different approaches to it.",
-      "image": "https://aneromz.github.io/Frostbite.PNG"
+      "info": "Informationsvisualisering fokuserar på användningen av visualiseringstekniker för att hjälpa användare att förstå och analysera komplex data. De tekniker som används måste utvärderas för att ta reda på deras användbarhet och hur användarna når insikt med hjälp från dem. Idag, förutom att introducera min forskning, som behandlar sådana utmaningar, talar jag om hur man kan gå vidare för att få en Ph.D. och varför jag tycker mer borde göra detta.",
+      "image": "https://emmwel.github.io/eventbilder/Kahin.png"
     },
     {
       "title": "Miljötävling",
       "host": "MTD-gruppen",
-      "time": "14.00-15.00",
-      "start": "April 3, 2019 14:00:00",
-      "end": "April 3, 2019 15:00:00",
-      "place": "Loungen",
-      "info": "Du som deltagarna ska bygga ett så högt torn torn som möjligt med tomma förpackningar. Förpackningarna motsvarar samtidigt olika nivåer av minuspoäng i förhållande till hur dåliga de är för miljön.",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Från MT till kostymnisse till entreprenör",
-      "host": "Filip Gruvstad",
-      "time": "15.15-16.00",
-      "start": "April 3, 2019 15:00:00",
-      "end": "April 3, 2019 16:00:00",
-      "place": "K4",
-      "info": "Filip är idag lite utav en serieentreprenör och har startat 3 techbolag samt en egen konsultverksamhet. Dessförinnan jobbade han på som managementkonsult på världens kanske mest prestigefyllda byrå, McKinsey&co. \n \n
-              I Filips föreläsning får vi följa en lite mer ovanlig karriärsbana för en medietekniker, att gå från teknik till business och tillbaka igen. Han kommer prata om vad som krävs för att starta ett bolag, vara en bra CTO eller en vass managementkonsult. Hur kommer man på den perfekta idén, bygger man ett bra team och får investeringar? Vad lär man sig under utbildningen som man har användning av och vad är det man inte får lära sig? Hur mycket måste man flyga innan dom hälsar på en vid namn när man går på planet?",
-      "image": "https://aneromz.github.io/Filip.PNG"
-    },
-    {
-      "title": "Mässan stänger",
-      "host": "MTD-gruppen",
-      "time": "16.00-16.15",
-      "start": "April 3, 2019 16:00:00",
-      "end": "April 3, 2018 16:15:00",
+      "time": "13.00-14.00",
+      "start": "March 21, 2018 13:00:00",
+      "end": "March 21, 2018 14:00:00",
       "place": "Mässområdet",
-      "info": "Första dagen av MTD når sitt slut och mässan stänger",
+      "info": "På onsdagen 13.00 har vi en tävling där man ska sortera skräp! Utslagsfråga är att ange sitt bästa miljöhack, så se till att klura ut något smart! \n \nPris: En cykel",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "MTD-Pub",
+      "title": "Skattjakt: Del 2",
       "host": "MTD-gruppen",
-      "time": "18.00-22.00",
-      "start": "April 3, 2019 18:00:00",
-      "end": "April 3, 2019 22:00:00",
-      "place": "Saliga Munken",
-      "info": "Efter den första mässdagen av Medieteknikdagarna är det dags för AW på Saliga Munken! Mer information hittar ni i vårt Facebook-evenemang.",
+      "time": "14.00-14.15",
+      "start": "March 21, 2018 14:00:00",
+      "end": "March 21, 2018 14:15:00",
+      "place": "Mässområdet",
+      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
       "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Ingenjör, entreprenör, reklamare, hippie",
+      "host": "Walter Naeslund",
+      "time": "14.15-15.00",
+      "start": "March 21, 2018 14:15:00",
+      "end": "March 21, 2018 15:00:00",
+      "place": "K4",
+      "info": "Walter Naeslund är grundare och VD för den Stockholmsbaserade reklambyrån Honesty. Honesty har varit Sveriges mest lönsamma byrå i flera år, är flerfaldigt prisbelönad och ligger bland annat bakom koncept för Halebop, Beijer (Sumobrottarna), Länsförsäkringar (Modell-Johan) och Lyko. Walter var en engagerad medieteknikstudent runt millenieskiftet 1998-2002 då han var PR-chef, Sektionsordförande och medgrundare till studenttidningen Ikon.\n \nI Walters föreläsning får vi följa en av de kanske ovanligare karriärsbanorna för en ingenjör. Vi får lära oss jedi-mind-tricks från reklamvärlden, hur man bygger kreativ hippie-kultur som maxar lönsamheten, hur man överlever och lyckas som entreprenör och se hur den grå och orangea fyrkanten var en nyckel till alltihopa.",
+      "image": "https://emmwel.github.io/eventbilder/Walter.png"
+    },
+    {
+      "title": "Fönster mot TV-världen",
+      "host": "Annika Bidner",
+      "time": "16.15-17.00",
+      "start": "March 21, 2018 16:15:00",
+      "end": "March 21, 2018 17:00:00",
+      "place": "K4",
+      "info": "Vad tycker folk är viktigast när de tittar på tv och video? Håller mobilen på att ta över videotittandet? Vilka program funkar i tv men inte online? Hur mycket ska automatiseras och personaliseras? Kan SVT Play mäta sig med Netflix? Vilka problem brottas SVT Play med just nu? Och hur är det att jobba på SVT, egentligen? Annika Bidner är produktägare på SVT Play och har tidigare jobbat som UX-designer och analytiker på Bokus, Valtech, Creuna och Framfab.",
+      "image": "https://emmwel.github.io/eventbilder/Annika.png"
     }
 
   ],
