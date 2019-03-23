@@ -7,27 +7,27 @@
       "start": "April 3, 2019 08:30:00",
       "end": "April 3, 2019 10:00:00",
       "place": "Loungen",
-      "info": "Frukost serveras i loungen.\n \n \n \n \n \n \n \n",
+      "info": "Frukost serveras i loungen.",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Mässan öppnar - välkomsttal",
+      "title": "Mässan öppnar - Välkomsttal",
       "host": "MTD-gruppen",
-      "time": "09.00-09.15",
-      "start": "April 3, 2019 09:00:00",
+      "time": "10.00-10.15",
+      "start": "April 3, 2019 10:00:00",
       "end": "April 3, 2019 09:15:00",
       "place": "K4",
       "info": "MTD-gruppen hälsar alla välkomna.",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Automation är inte lösningen.\n Det är verktyget.",
-      "host": "Nicholas Fernholm",
-      "time": "09.15-10.00",
-      "start": "April 3, 2018 09:15:00",
-      "end": "April 3, 2018 10:00:00",
+      "title": "En inblick i VFX industrin",
+      "host": "Dan Englesson",
+      "time": "10.15-11.00",
+      "start": "April 3, 2018 10:15:00",
+      "end": "April 3, 2018 11:00:00",
       "place": "K4",
-      "info": "Nicholas är en fantastisk föreläsare och expert på att implementera innovativa produkter i befintliga processer. Hans föreläsningar är inspirerande och underhållande med fokus på de största faktorerna som påverkar framtidens arbetsmarknad och arbetssätt.\n \nHan är idag förvaltningschef för bland annat transportrobotarna på Nya Karolinska Sjukhuset i Solna.\n \nNicholas kommer föreläsa om hur automation och AI kommer påverka världen på kort och lång sikt. Nicholas föreläsning fokuserar på hur den digitala världen påverkas oss, och hur AI, nya generationen och automation är nycklarna för att förstå och förbereda sig för framtiden.",
+      "info": "Dan kommer att prata om hur hans karriär tog fart ut i världen direkt efter studietiden och hur det är att jobba på stora VFX och animation studios så som MPC i London, Pixar i San Francisco och Goodbye Kansas i Stockholm. Dan kommer också ge en inblick i hur det var att jobba på Coco på Pixar som vann en Oscar för bästa animerade film och hur det är att jobba med VFX i Sverige idag.",
       "image": "https://emmwel.github.io/eventbilder/Nicholas.png"
     },
     {
