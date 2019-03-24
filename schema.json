@@ -17,7 +17,7 @@
       "start": "April 3, 2019 10:00:00",
       "end": "April 3, 2019 09:15:00",
       "place": "K4",
-      "info": "MTD-gruppen hälsar alla välkomna.",
+      "info": "MTD-gruppen hälsar alla välkomna till Medieteknikdagarna 2019.",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
@@ -33,11 +33,11 @@
     {
       "title": "Skattjakt 2",
       "host": "MTD-gruppen",
-      "time": "11.00-11.15",
-      "start": "April 3, 2019 11:00:00",
-      "end": "April 3, 2019 11:15:00",
+      "time": "12.00-12.15",
+      "start": "April 3, 2019 12:00:00",
+      "end": "April 3, 2019 12:15:00",
       "place": "Mässområdet",
-      "info": "Dags för första skattjakten!\n \n Hitta ett gömt MTD-visitkort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n\nPris: Presentkort",
+      "info": "Dags för andra skattjakten!\n \n Hitta ett gömt MTD-visitkort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n\nPris: Presentkort",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
@@ -54,41 +54,41 @@
     {
       "title": "Miljötävling",
       "host": "MTD-gruppen",
-      "time": "12.00-12.15",
-      "start": "April 3, 2019 12:00:00",
-      "end": "April 3, 2018 12:15:00",
-      "place": "Mässområdet",
-      "info": "Dags för andra skattjakten!\n \n Hitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n \nPris: Presentkort",
+      "time": "14.00-15.00",
+      "start": "April 3, 2019 14:00:00",
+      "end": "April 3, 2018 15:00:00",
+      "place": "Loungen",
+      "info": "Bygg det högsta stornet med tomma förpackningar. Förpackningarna motsvarar även olika nivåer av minuspoäng beroende på hur dåliga de är för miljön",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
       "title": "Från MT till kostymnisse till enreprenör",
       "host": "MTD-gruppen",
       "time": "14.00-14.15",
-      "start": "March 21, 2018 14:00:00",
-      "end": "March 21, 2018 14:15:00",
+      "start": "April 3, 2019 14:00:00",
+      "end": "April 3, 2019 14:15:00",
       "place": "Mässområdet",
-      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
+      "info": "Filip är idag lite utav en serieentreprenör och har startat 3 techbolag samt en egen konsultverksamhet. Dessförinnan jobbade han på som managementkonsult på världens kanske mest prestigefyllda byrå, McKinsey&co. \n \n I Filips föreläsning får vi följa en lite mer ovanlig karriärsbana för en medietekniker, att gå från teknik till business och tillbaka igen. Han kommer prata om vad som krävs för att starta ett bolag, vara en bra CTO eller en vass managementkonsult. Hur kommer man på den perfekta idén, bygger man ett bra team och får investeringar? Vad lär man sig under utbildningen som man har användning av och vad är det man inte får lära sig? Hur mycket måste man flyga innan dom hälsar på en vid namn när man går på planet?",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
       "title": "Mässan stänger",
-      "host": "Walter Naeslund",
-      "time": "14.15-15.00",
-      "start": "March 21, 2018 14:15:00",
-      "end": "March 21, 2018 15:00:00",
+      "host": "MTD-gruppen",
+      "time": "16.00-16.15",
+      "start": "April 3, 2019 16:00:00",
+      "end": "April 3, 2019 16:15:00",
       "place": "K4",
-      "info": "Walter Naeslund är grundare och VD för den Stockholmsbaserade reklambyrån Honesty. Honesty har varit Sveriges mest lönsamma byrå i flera år, är flerfaldigt prisbelönad och ligger bland annat bakom koncept för Halebop, Beijer (Sumobrottarna), Länsförsäkringar (Modell-Johan) och Lyko. Walter var en engagerad medieteknikstudent runt millenieskiftet 1998-2002 då han var PR-chef, Sektionsordförande och medgrundare till studenttidningen Ikon.\n \nI Walters föreläsning får vi följa en av de kanske ovanligare karriärsbanorna för en ingenjör. Vi får lära oss jedi-mind-tricks från reklamvärlden, hur man bygger kreativ hippie-kultur som maxar lönsamheten, hur man överlever och lyckas som entreprenör och se hur den grå och orangea fyrkanten var en nyckel till alltihopa.",
-      "image": "https://emmwel.github.io/eventbilder/Walter.png"
+      "info": "Första dagen av MTD är slut och mässan stänger ner.",
+      "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
       "title": "MTD-Pub",
-      "host": "Annika Bidner",
-      "time": "16.15-17.00",
-      "start": "March 21, 2018 16:15:00",
-      "end": "March 21, 2018 17:00:00",
+      "host": "MTD-gruppen",
+      "time": "17.00-22.00",
+      "start": "April 3, 2019 17:00:00",
+      "end": "April 3, 2019 22:00:00",
       "place": "K4",
-      "info": "Vad tycker folk är viktigast när de tittar på tv och video? Håller mobilen på att ta över videotittandet? Vilka program funkar i tv men inte online? Hur mycket ska automatiseras och personaliseras? Kan SVT Play mäta sig med Netflix? Vilka problem brottas SVT Play med just nu? Och hur är det att jobba på SVT, egentligen? Annika Bidner är produktägare på SVT Play och har tidigare jobbat som UX-designer och analytiker på Bokus, Valtech, Creuna och Framfab.",
+      "info": "Efter den första mässdagen av Medieteknikdagarna är det dags för AW på Saliga Munken! För mer information besök vårt evenemang på Facebook.",
       "image": "https://emmwel.github.io/eventbilder/Annika.png"
     }
 
