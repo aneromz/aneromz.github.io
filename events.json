@@ -10,144 +10,184 @@
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Välkomsttal",
+      "title": "Mässan öppnar - Välkomsttal",
       "host": "MTD-gruppen",
-      "time": "09.00-09.15",
-      "start": "March 21, 2019 09:00:00",
-      "end": "March 21, 2019 09:15:00",
+      "time": "10.00-10.15",
+      "start": "April 3, 2019 10:00:00",
+      "end": "April 3, 2019 10:15:00",
       "place": "K4",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Automation är inte lösningen. Det är verktyget.",
-      "host": "Nicholas Fernholm",
-      "time": "09.15-10.00",
-      "start": "March 21, 2019 09:15:00",
-      "end": "March 21, 2019 10:00:00",
+      "title": "En inblick i VFX industrin",
+      "host": "Dan Englesson",
+      "time": "10.15-11.00",
+      "start": "April 3, 2019 10:15:00",
+      "end": "April 3, 2019 11:00:00",
       "place": "K4",
-      "image": "https://emmwel.github.io/eventbilder/Nicholas.png"
+      "image": "https://aneromz.github.io/Dan.jpg"
     },
     {
-      "title": "Skattjakt: Del 1",
+      "title": "Skattjakt 1",
       "host": "MTD-gruppen",
       "time": "11.00-11.15",
-      "start": "March 21, 2019 11:00:00",
-      "end": "March 21, 2019 11:15:00",
+      "start": "April 3, 2019 11:00:00",
+      "end": "April 3, 2019 11:15:00",
       "place": "Mässområdet",
-      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Getting a Ph.D. - Why and How?",
-      "host": "Kahin Akram Hassan",
-      "time": "11.15-12.00",
-      "start": "March 21, 2019 11:15:00",
-      "end": "March 21, 2019 12:00:00",
+      "title": "Skattjakt 2",
+      "host": "MTD-gruppen",
+      "time": "12.00-12.15",
+      "start": "April 3, 2019 12:00:00",
+      "end": "April 3, 2019 12:15:00",
+      "place": "Mässområdet",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Building a flexible core engine",
+      "host": "Alexander Loodin Ek och Amanat Bari",
+      "time": "13.15-14.00",
+      "start": "April 3, 2019 10:15:00",
+      "end": "April 3, 2019 11:00:00",
       "place": "K4",
-      "image": "https://emmwel.github.io/eventbilder/Kahin.png"
+      "image": "https://aneromz.github.io/Frostbite.PNG"
     },
     {
       "title": "Miljötävling",
       "host": "MTD-gruppen",
-      "time": "13.00-14.00",
-      "start": "March 21, 2019 13:00:00",
-      "end": "March 21, 2019 14:00:00",
-      "place": "Mässområdet",
-      "info": "På onsdagen 13.00 har vi en tävling där man ska sortera skräp! Utslagsfråga är att ange sitt bästa miljöhack, så se till att klura ut något smart! \n \nPris: En cykel",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Skattjakt: Del 2",
-      "host": "MTD-gruppen",
-      "time": "14.00-14.15",
-      "start": "March 21, 2019 14:00:00",
-      "end": "March 21, 2019 14:15:00",
-      "place": "Mässområdet",
-      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Ingenjör, entreprenör, reklamare, hippie",
-      "host": "Walter Naeslund",
-      "time": "14.15-15.00",
-      "start": "March 21, 2019 14:15:00",
-      "end": "March 21, 2019 15:00:00",
-      "place": "K4",
-      "image": "https://emmwel.github.io/eventbilder/Walter.png"
-    },
-    {
-      "title": "Fönster mot TV-världen",
-      "host": "Annika Bidner",
-      "time": "16.15-17.00",
-      "start": "March 21, 2019 16:15:00",
-      "end": "March 21, 2019 17:00:00",
-      "place": "K4",
-      "image": "https://emmwel.github.io/eventbilder/Annika.png"
-    },
-    {
-      "title": "Frukost - Torsdag",
-      "host": "MTD-gruppen",
-      "time": "08.30-10.00",
-      "start": "March 22, 2019 08:30:00",
-      "end": "March 22, 2019 10:00:00",
+      "time": "14.00-15.00",
+      "start": "April 3, 2019 14:00:00",
+      "end": "April 3, 2019 15:00:00",
       "place": "Loungen",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Första jobbet",
-      "host": "Paneldiskussion",
-      "time": "10.15-11.00",
-      "start": "March 22, 2019 10:15:00",
-      "end": "March 22, 2019 11:00:00",
-      "place": "K4",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Skattjakt: Del 3",
-      "host": "MTD-gruppen",
-      "time": "11.00-11.15",
-      "start": "March 22, 2019 11:00:00",
-      "end": "March 22, 2019 11:15:00",
-      "place": "Mässområdet",
-      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Skattjakt: Del 4",
+      "title": "Från MT till kostymnisse \n till enreprenör",
       "host": "MTD-gruppen",
       "time": "14.00-14.15",
-      "start": "March 22, 2019 14:00:00",
-      "end": "March 22, 2019 14:15:00",
+      "start": "April 3, 2019 14:00:00",
+      "end": "April 3, 2019 14:15:00",
       "place": "Mässområdet",
-      "info": "Dags för skattjakt!\n \nHitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår snapchat där vi heter MTDagarna. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Vi påminner om skattjakten med en pushnotis!\n \nPris: Presentkort",
+      "image": "https://aneromz.github.io/Filip.PNG"
+    },
+    {
+      "title": "Mässan stänger",
+      "host": "MTD-gruppen",
+      "time": "16.00",
+      "start": "April 3, 2019 16:00:00",
+      "end": "April 3, 2019 16:15:00",
+      "place": "K4",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Virtuella miljöer på Stiller Studios",
-      "host": "Sofia Wennström & Aron Tornberg",
-      "time": "14.15-15.00",
-      "start": "March 22, 2019 14:15:00",
-      "end": "March 22, 2019 15:00:00",
+      "title": "MTD-Pub",
+      "host": "MTD-gruppen",
+      "time": "17.00-22.00",
+      "start": "April 3, 2019 17:00:00",
+      "end": "April 3, 2019 22:00:00",
       "place": "K4",
-      "image": "https://emmwel.github.io/eventbilder/SofiaAron.png"
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Frukost",
+      "host": "MTD-gruppen",
+      "time": "08.30-10.00",
+      "start": "April 4, 2019 08:30:00",
+      "end": "April 5, 2019 10:00:00",
+      "place": "Loungen",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Mässan öppnar",
+      "host": "MTD-gruppen",
+      "time": "10.00",
+      "start": "April 4, 2019 10:00:00",
+      "end": "April 4, 2019 10:15:00",
+      "place": "Mässområdet",
+      "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
       "title": "SnakeBot-tävling",
       "host": "Cygni",
-      "time": "15.00-16.00",
-      "start": "March 22, 2019 15:00:00",
-      "end": "March 22, 2019 16:00:00",
-      "place": "K24",
+      "time": "10.30-11.30",
+      "start": "April 4, 2019 10:30:00",
+      "end": "April 4, 2019 11:30:00",
+      "place": "K2",
       "image": "https://emmwel.github.io/logotyper/cygni.png"
     },
     {
-      "title": "Hur en av världens mest moderna TV-boxar kom till världen",
-      "host": "Ulrika Asplund",
-      "time": "16.15-17.00",
-      "start": "March 22, 2019 16:15:00",
-      "end": "March 22, 2019 17:00:00",
+      "title": "Skattjakt 3",
+      "host": "MTD-gruppen",
+      "time": "11.00-11.15",
+      "start": "April 4, 2019 11:00:00",
+      "end": "April 4, 2019 11:15:00",
+      "place": "Mässområdet",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Skattjakt 4",
+      "host": "MTD-gruppen",
+      "time": "13.00-13.15",
+      "start": "April 4, 2019 13:00:00",
+      "end": "April 4, 2019 13:15:00",
+      "place": "Mässområdet",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Att lösa brott med VR",
+      "host": "Philip Engström och Catrin Dath",
+      "time": "13.15-14.00",
+      "start": "April 4, 2019 13:15:00",
+      "end": "April 4, 2019 14:00:00",
       "place": "K4",
-      "image": "https://emmwel.github.io/eventbilder/Ulrika.png"
+      "image": "https://aneromz.github.io/båda.png"
+    },
+    {
+      "title": "Skattjakt 5",
+      "host": "MTD-gruppen",
+      "time": "14.00-14.15",
+      "start": "April 4, 2019 14:00:00",
+      "end": "April 4, 2019 14:15:00",
+      "place": "Mässområdet",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Rittävling",
+      "host": "MTD-gruppen",
+      "time": "14.15-15.00",
+      "start": "April 4, 2019 14:15:00",
+      "end": "April 4, 2019 15:00:00",
+      "place": "Student Expo",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Mässan stänger",
+      "host": "MTD-gruppen",
+      "time": "15.00",
+      "start": "April 4, 2019 15:00:00",
+      "end": "April 4, 2019 15:10:00",
+      "place": "Mässområdet",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Kariärsval",
+      "host": "Paneldiskussion",
+      "time": "15.15-16.00",
+      "start": "April 4, 2019 15:15:00",
+      "end": "April 4, 2019 16:00:00",
+      "place": "K4",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "MTD-Banketten",
+      "host": "MTD-gruppen",
+      "time": "19.00-23.00",
+      "start": "April 4, 2019 19:00:00",
+      "end": "April 4, 2019 23:00:00",
+      "place": "Arbis",
+      "image": "https://aneromz.github.io/MTDlogo.png"
     }
 
   ]
