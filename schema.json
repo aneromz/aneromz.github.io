@@ -21,6 +21,26 @@
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
+      "title": "Skattjakt 1",
+      "host": "MTD-gruppen",
+      "time": "11.00-11.15",
+      "start": "April 3, 2019 11:00:00",
+      "end": "April 3, 2019 11:15:00",
+      "place": "Mässområdet",
+      "info": "Dags för första skattjakten!\n \n Hitta ett gömt MTD-visitkort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n\nPris: Presentkort",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
+      "title": "Skattjakt 2",
+      "host": "MTD-gruppen",
+      "time": "11.00-11.15",
+      "start": "April 3, 2019 11:00:00",
+      "end": "April 3, 2019 11:15:00",
+      "place": "Mässområdet",
+      "info": "Dags för första skattjakten!\n \n Hitta ett gömt MTD-visitkort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n\nPris: Presentkort",
+      "image": "https://aneromz.github.io/MTDlogo.png"
+    },
+    {
       "title": "En inblick i VFX industrin",
       "host": "Dan Englesson",
       "time": "10.15-11.00",
@@ -30,18 +50,9 @@
       "info": "Dan kommer att prata om hur hans karriär tog fart ut i världen direkt efter studietiden och hur det är att jobba på stora VFX och animation studios så som MPC i London, Pixar i San Francisco och Goodbye Kansas i Stockholm. Dan kommer också ge en inblick i hur det var att jobba på Coco på Pixar som vann en Oscar för bästa animerade film och hur det är att jobba med VFX i Sverige idag.",
       "image": "https://aneromz.github.io/Dan.jpg"
     },
+
     {
-      "title": "Skattjakt 1",
-      "host": "MTD-gruppen",
-      "time": "11.00-11.15",
-      "start": "April 3, 2019 11:00:00",
-      "end": "April 3, 2019 11:15:00",
-      "place": "Mässområdet",
-      "info": "Dags för första skattjakten!\n \n Hitta en skattkista gömd någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar skattkistan, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n \nPris: Presentkort",
-      "image": "https://aneromz.github.io/MTDlogo.png"
-    },
-    {
-      "title": "Skattjakt 2",
+      "title": "Miljötävling",
       "host": "MTD-gruppen",
       "time": "12.00-12.15",
       "start": "April 3, 2019 12:00:00",
@@ -61,7 +72,7 @@
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Skattjakt: Del 2",
+      "title": "Från MT till kostymnisse till enreprenör",
       "host": "MTD-gruppen",
       "time": "14.00-14.15",
       "start": "March 21, 2018 14:00:00",
@@ -71,7 +82,7 @@
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
-      "title": "Ingenjör, entreprenör, reklamare, hippie",
+      "title": "Mässan stänger",
       "host": "Walter Naeslund",
       "time": "14.15-15.00",
       "start": "March 21, 2018 14:15:00",
@@ -81,7 +92,7 @@
       "image": "https://emmwel.github.io/eventbilder/Walter.png"
     },
     {
-      "title": "Fönster mot TV-världen",
+      "title": "MTD-Pub",
       "host": "Annika Bidner",
       "time": "16.15-17.00",
       "start": "March 21, 2018 16:15:00",
