@@ -101,7 +101,7 @@
       "klimat": "0"
     },
     { "name": "SVT",
-      "image": "https://emmwel.github.io/logotyper/Dataton.png",
+      "image": "https://aneromz.github.io/logotyper/svt.png",
       "plats": "0",
       "sponsor": "1",
       "erbjudande": "",
@@ -112,7 +112,7 @@
       "klimat": "0"
     },
     { "name": "Toptracer",
-      "image": "https://emmwel.github.io/logotyper/Dataton.png",
+      "image": "https://aneromz.github.io/logotyper/toptracer.png",
       "plats": "0",
       "sponsor": "1",
       "erbjudande": "",
@@ -145,7 +145,7 @@
       "klimat": "0"
     },
     { "name": "VISIARC",
-      "image": "https://emmwel.github.io/logotyper/Dataton.png",
+      "image": "https://aneromz.github.io/logotyper/visiarc.png",
       "plats": "0",
       "sponsor": "1",
       "erbjudande": "",
@@ -159,7 +159,7 @@
 
   "both": [
     { "name": "Softube",
-      "image": "https://emmwel.github.io/logotyper/InGenious.png",
+      "image": "https://aneromz.github.io/logotyper/softube.png",
       "plats": "0",
       "sponsor": "0",
       "erbjudande": "Kurs",
@@ -170,7 +170,7 @@
       "klimat": "0"
     },
     { "name": "Netgain",
-      "image": "https://emmwel.github.io/logotyper/InGenious.png",
+      "image": "https://aneromz.github.io/logotyper/netgain.png",
       "plats": "0",
       "sponsor": "0",
       "erbjudande": "Kurs",
@@ -181,7 +181,7 @@
       "klimat": "0"
     },
     { "name": "Cruitive",
-      "image": "https://emmwel.github.io/logotyper/InGenious.png",
+      "image": "https://aneromz.github.io/logotyper/cruitive.png",
       "plats": "0",
       "sponsor": "0",
       "erbjudande": "Kurs",
@@ -192,7 +192,7 @@
       "klimat": "0"
     },
     { "name": "Combitech",
-      "image": "https://emmwel.github.io/logotyper/InGenious.png",
+      "image": "https://aneromz.github.io/logotyper/combitech.png",
       "plats": "0",
       "sponsor": "0",
       "erbjudande": "Kurs",
@@ -203,7 +203,7 @@
       "klimat": "0"
     },
     { "name": "Card Network Solutions",
-      "image": "https://emmwel.github.io/logotyper/InGenious.png",
+      "image": "https://aneromz.github.io/logotyper/cns.png",
       "plats": "0",
       "sponsor": "0",
       "erbjudande": "Kurs",
@@ -214,7 +214,7 @@
       "klimat": "0"
     },
     { "name": "inGenious",
-      "image": "https://emmwel.github.io/logotyper/InGenious.png",
+      "image": "https://aneromz.github.io/logotyper/ingenious.png",
       "plats": "31",
       "sponsor": "0",
       "erbjudande": "Kurs",
@@ -247,7 +247,7 @@
       "klimat": "0"
     },
     { "name": "Unionen",
-      "image": "https://emmwel.github.io/logotyper/Unionen.png",
+      "image": "https://aneromz.github.io/logotyper/unionen.png",
       "plats": "3",
       "sponsor": "0",
       "erbjudande": "Medlemskap",
@@ -294,7 +294,7 @@
 
   "onsdag": [
     { "name": "Signality",
-      "image": "https://emmwel.github.io/logotyper/FindOut.png",
+      "image": "https://aneromz.github.io/logotyper/signality.png",
       "plats": "18",
       "sponsor": "0",
       "erbjudande": "Exjobb, Praktik, Anställning",
@@ -305,7 +305,7 @@
       "klimat": "0"
     },
     { "name": "Edvira",
-      "image": "https://emmwel.github.io/logotyper/FindOut.png",
+      "image": "https://aneromz.github.io/logotyper/edvira.png",
       "plats": "18",
       "sponsor": "0",
       "erbjudande": "Exjobb, Praktik, Anställning",
@@ -316,7 +316,7 @@
       "klimat": "0"
     },
     { "name": "FindOut Technologies",
-      "image": "https://emmwel.github.io/logotyper/FindOut.png",
+      "image": "https://aneromz.github.io/logotyper/findout.png",
       "plats": "18",
       "sponsor": "0",
       "erbjudande": "Exjobb, Praktik, Anställning",
@@ -349,7 +349,7 @@
       "klimat": "0"
     },
     { "name": "Sogeti",
-      "image": "https://emmwel.github.io/logotyper/Sogeti.png",
+      "image": "https://aneromz.github.io/logotyper/sogeti.png",
       "plats": "22",
       "sponsor": "0",
       "erbjudande": "Anställning",
@@ -382,7 +382,7 @@
       "klimat": "0"
     },
     { "name": "Cybercom",
-      "image": "https://emmwel.github.io/logotyper/Cybercom.png",
+      "image": "https://aneromz.github.io/logotyper/cybercom.png",
       "plats": "8",
       "sponsor": "0",
       "erbjudande": "Trainee, Sommarjobb, Anställning, Studentprogram",
@@ -428,7 +428,7 @@
   ],
   "torsdag": [
     { "name": "Webhelp Nordic",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/webhelp.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -439,7 +439,7 @@
       "klimat": "0"
     },
     { "name": "Voysys",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://voysys.github.io/logotyper/voysys.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -450,7 +450,7 @@
       "klimat": "0"
     },
     { "name": "Senion",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/senion.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -461,7 +461,7 @@
       "klimat": "0"
     },
     { "name": "Revide",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/revide.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -472,7 +472,7 @@
       "klimat": "0"
     },
     { "name": "Qliro",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/qliro.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -483,7 +483,7 @@
       "klimat": "0"
     },
     { "name": "IST",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/ist.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -494,7 +494,7 @@
       "klimat": "0"
     },
     { "name": "Axis Communications",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/axis.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -505,7 +505,7 @@
       "klimat": "0"
     },
     { "name": "AgriOpt",
-      "image": "https://emmwel.github.io/logotyper/Qlik.png",
+      "image": "https://aneromz.github.io/logotyper/agriopt.png",
       "plats": "1",
       "sponsor": "0",
       "erbjudande": "Exjobb, Sommarjobb, Anställning",
@@ -549,7 +549,7 @@
       "klimat": "0"
     },
     { "name": "Ericsson",
-      "image": "https://emmwel.github.io/logotyper/Ericsson.png",
+      "image": "https://aneromz.github.io/logotyper/ericsson.png",
       "plats": "14",
       "sponsor": "0",
       "erbjudande": "Exjobb, Anställning",
