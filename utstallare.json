@@ -10,7 +10,7 @@
       "info": "Cygni grundades med visionen att skapa den bästa arbetsplatsen för en skicklig och ambitiös systemutvecklare. Vi har vunnit titeln Sveriges Bästa Arbetsplats 5 år i rad och dessutom vunnit titeln Europas Bästa Arbetsplats 4 gånger i Great Place To Works världsledande medarbetarundersökning som genomförs i över 50 länder: ett fint kvitto på våra ambitioner. \n\nLäs mer på medieteknikdagarna.se",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Gaia",
       "image": "https://emmwel.github.io/logotyper/gaia.png",
@@ -54,7 +54,7 @@
       "info": "SMHI Sveriges Meteorologiska och Hydrologiska Institut. \nAlla berörs av väder, vatten och klimat. SMHI arbetar för hela samhället, för privatpersoner, myndigheter och företag. Vårt mål är att bidra till god samhällsplanering och ett uthålligt och säkert samhälle med vår expertkunskap.",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Dataton",
       "image": "https://aneromz.github.io/logotyper/dataton.png",
@@ -189,7 +189,7 @@
       "info": "",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Combitech",
       "image": "https://aneromz.github.io/logotyper/combitech.png",
@@ -244,7 +244,7 @@
       "info": "Sectras huvudkontor ligger i Mjärdevi och består av två huvudverksamheter: Medicinsk IT och Cybersäkerhet. På sidan för medicinsk IT utvecklar och säljer vi IT lösningar för att effektivisera världens sjukvård. Inom cybersäkerhet utvecklar och säljer vi säkerhetslösningar för myndigheter och försvarsorganisationer i Europa.\n \nThe world needs more efficient healthcare and increased security in society’s communication and IT systems. Sectra plays a key role in meeting these needs. Sectra assists hospitals throughout the world to enhance the efficiency of care, and authorities and defense forces in Europe to protect society’s most sensitive information. The company was founded in 1978, has its head office in Linköping, with subsidiaries in 15 countries, and operates through partners worldwide.",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Unionen",
       "image": "https://aneromz.github.io/logotyper/unionen.png",
@@ -266,7 +266,7 @@
       "info": "iMatrics develops and delivers software-as-a-service solutions for the media industry, which effectively creates insights in large amounts of text data. This is possible through state-of-the-art automatic text analysis using mathematical methods based in research.",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Unitalent",
       "image": "https://emmwel.github.io/logotyper/Unitalent.png",
@@ -288,7 +288,7 @@
       "info": "Gör verklighet av din idé. LiU Innovation hjälper dig att komma igång, och stöttar dig från tidig idé till produkt eller tjänst. Stödet är kostnadsfritt för dig som är student vid Linköpings universitet.",
       "onsdag": "1",
       "torsdag": "1",
-      "klimat": "0"
+      "klimat": "1"
     }
   ],
 
@@ -302,7 +302,7 @@
       "info": "",
       "onsdag": "1",
       "torsdag": "0",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Edvira",
       "image": "https://aneromz.github.io/logotyper/edvira.png",
@@ -324,7 +324,7 @@
       "info": "På FindOut arbetar vi med våra kunders utvecklingsprocesser för både hårda produkter och mjuka tjänster. Vi utvecklar, effektiviserar och visualiserar. En del av oss är grymma kodare, några är processgurus eller tunga systemarkitekter. Andra har några års yrkeserfarenhet eller kommer direkt från universitet eller högskola. Vi drivs alla av våra kunders önskan att leverera produkter med bättre kvalitet och med ännu högre grad av innovation.\n \nVi söker personer som framförallt är intresserade av mjukvaruutveckling, men även närliggande områden då det framförallt är de personliga egenskaperna som avgör!",
       "onsdag": "1",
       "torsdag": "0",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Goodbye Kansas Studios",
       "image": "https://emmwel.github.io/logotyper/GoodbyeKansasStudios.png",
@@ -357,7 +357,7 @@
       "info": "Sogeti är ett av Sveriges största IT-konsultföretag med cirka 1150 medarbetare fördelat på 21 orter. Utmärkande för Sogeti är den breda konsultbasen med heltäckande kompetens inom mjukvaruutveckling, systemtest, projektledning och digitalisering.",
       "onsdag": "1",
       "torsdag": "0",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Skill",
       "image": "https://emmwel.github.io/logotyper/skill.png",
@@ -368,7 +368,7 @@
       "info": "Skill är Östergötlands ledande bemannings- och rekryteringsbolag och våra kunder finns främst inom industri och IT. På uppdrag av våra ägare är vi djupt engagerade i utbildningar och kompetensförsörjningsfrågor och fungerar som en naturlig samlingspunkt för våra kund- och ägarföretag genom våra olika nätverk.",
       "onsdag": "1",
       "torsdag": "0",
-      "klimat": "0"
+      "klimat": "1"
     },
     { "name": "Academic Work",
       "image": "https://emmwel.github.io/logotyper/AcademicWork.png",
