@@ -17,7 +17,7 @@
       "start": "April 3, 2019 10:00:00",
       "end": "April 3, 2019 10:15:00",
       "place": "K4",
-      "info": "MTD-gruppen hälsar alla välkomna till Medieteknikdagarna 2019.",
+      "info": "MTD-gruppen hälsar alla välkomna till Medieteknikdagarna 2019!\n\n\n\n\n\n\n\n\n\n\n.",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
@@ -27,7 +27,7 @@
       "start": "April 3, 2019 10:15:00",
       "end": "April 3, 2019 11:00:00",
       "place": "K4",
-      "info": "Dan kommer att prata om hur hans karriär tog fart ut i världen direkt efter studietiden och hur det är att jobba på stora VFX och animation studios så som MPC i London, Pixar i San Francisco och Goodbye Kansas i Stockholm. Dan kommer också ge en inblick i hur det var att jobba på Coco på Pixar som vann en Oscar för bästa animerade film och hur det är att jobba med VFX i Sverige idag.",
+      "info": "Dan kommer att prata om hur hans karriär tog fart ut i världen direkt efter studietiden och hur det är att jobba på stora VFX och animation studios så som MPC i London, Pixar i San Francisco och Goodbye Kansas i Stockholm. Dan kommer också ge en inblick i hur det var att jobba på Coco på Pixar som vann en Oscar för bästa animerade film och hur det är att jobba med VFX i Sverige idag.\n\n\n\n\n\n.",
       "image": "https://aneromz.github.io/Dan.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "start": "April 3, 2019 11:00:00",
       "end": "April 3, 2019 11:15:00",
       "place": "Mässområdet",
-      "info": "Dags för första skattjakten!\n \n Hitta ett gömt MTD-kort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n\nPris: Presentkort",
+      "info": "Dags för första skattjakten!\n \n Hitta ett gömt MTD-kort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd.\n\nSe till att vara beredd när storyn släpps!\n\nPris: Presentkort",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
@@ -47,7 +47,7 @@
       "start": "April 3, 2019 12:00:00",
       "end": "April 3, 2019 12:15:00",
       "place": "Mässområdet",
-      "info": "Dags för andra skattjakten!\n \n Hitta ett gömt MTD-kort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd. Kom ihåg att vara beredd när storyn släpps!\n\nPris: Presentkort",
+      "info": "Dags för andra skattjakten!\n \n Hitta ett gömt MTD-kort någonstans på mässan. Ledtråd skickas ut via vår instagram story. Om du hittar visitkortet, gå till receptionen för att bli mottagen av en eventvärd.\n\n Se till att vara beredd när storyn släpps!\n\nPris: Presentkort",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
@@ -57,7 +57,7 @@
       "start": "April 3, 2019 10:15:00",
       "end": "April 3, 2019 11:00:00",
       "place": "K4",
-      "info": "Alexander Loodin Ek and Mehrnaz Amanat Bari, Software Engineers at the Frostbite Engine, will talk about working at Frostbite and how to build a more flexible core engine using Entity Component System. The talk will include the basics of ECS as well as discuss a few different approaches to it.",
+      "info": "Alexander Loodin Ek and Mehrnaz Amanat Bari, Software Engineers at the Frostbite Engine, will talk about working at Frostbite and how to build a more flexible core engine using Entity Component System. The talk will include the basics of ECS as well as discuss a few different approaches to it.\n\n\n\n\n\n\n.",
       "image": "https://aneromz.github.io/Frostbite.PNG"
     },
     {
@@ -67,15 +67,15 @@
       "start": "April 3, 2019 14:00:00",
       "end": "April 3, 2019 15:00:00",
       "place": "Loungen",
-      "info": "Kasta skräp(bokstavligen) och få poäng utifrån sikte och miljötänk.\n\nPris: En cykel",
+      "info": "Kasta skräp (bokstavligen) och få poäng utifrån sikte och miljötänk.\n\nPris: En cykel\n\n\n\n\n\n\n\n\n\n\n.",
       "image": "https://aneromz.github.io/MTDlogo.png"
     },
     {
       "title": "Från MT till kostymnisse \ntill entreprenör",
       "host": "MTD-gruppen",
-      "time": "14.00-14.15",
-      "start": "April 3, 2019 14:00:00",
-      "end": "April 3, 2019 14:15:00",
+      "time": "15.15-16.00",
+      "start": "April 3, 2019 15:15:00",
+      "end": "April 3, 2019 16:00:00",
       "place": "Mässområdet",
       "info": "Filip är idag lite utav en serieentreprenör och har startat 3 techbolag samt en egen konsultverksamhet. Dessförinnan jobbade han på som managementkonsult på världens kanske mest prestigefyllda byrå, McKinsey&co. \n \n I Filips föreläsning får vi följa en lite mer ovanlig karriärsbana för en medietekniker, att gå från teknik till business och tillbaka igen. Han kommer prata om vad som krävs för att starta ett bolag, vara en bra CTO eller en vass managementkonsult. Hur kommer man på den perfekta idén, bygger man ett bra team och får investeringar? Vad lär man sig under utbildningen som man har användning av och vad är det man inte får lära sig? Hur mycket måste man flyga innan dom hälsar på en vid namn när man går på planet?",
       "image": "https://aneromz.github.io/Filip.PNG"
